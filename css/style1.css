@@ -1,0 +1,43 @@
+.p-60 {
+	padding: 60px 0px;
+}
+
+.m-0 {
+	margin: 0px;
+}
+
+.sec-tit {
+	text-transform: capitalize;
+}
+.exchange-tit {
+	text-transform: capitalize;
+}
+
+.coin-list li{
+	list-style-type: circle;
+}
+
+.cmn-btn {
+	background: #47b475;
+    padding: 13px 25px;
+    border-radius: 5px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.features-man {
+    position: relative;
+    top: 131px;
+}
+.cmn-btn:hover {
+	opacity: .8;
+	color: #fff;
+}
+
+.sec-txt1 {
+	margin-bottom: 20px;
+}
+
+.connect-btn {
+	margin-left: 10px;
+}
